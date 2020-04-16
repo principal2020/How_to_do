@@ -1,0 +1,11 @@
+Excute Linux on command line.
+wsl.exe -d Ubuntu
+
+git clone [URL]
+cd [cloned directory]
+git remote -v
+(git status)
+git add [file_name]
+(git status)
+git commit -m "For example, my first commit."
+git push origin master
